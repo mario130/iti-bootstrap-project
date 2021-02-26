@@ -1,0 +1,27 @@
+* {
+	font-family: "Poppins", sans-serif;
+}
+body,
+html {
+	scroll-behavior: smooth;
+}
+
+#team img {
+	max-width: 140px;
+}
+
+#plus-icon a {
+	position: absolute;
+	top: -25px;
+	right: 100px;
+}
+
+#price .card {
+	box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+#overlay img {
+	width: 100%;
+	height: auto;
+	filter: grayscale(50%);
+}
